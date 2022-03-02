@@ -1,6 +1,6 @@
-# Ishtar 
+# Ishtar
 
-- Istar Website Developed by Heider Jeffer
+- Istar is Python Web app Developed by Heider Jeffer
 - Requirements
 - argon2-cffi==18.1.0
 - bcrypt==3.1.4
