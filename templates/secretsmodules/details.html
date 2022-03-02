@@ -1,0 +1,32 @@
+{% extends "secretsmodules/base.html" %}
+{% load static %}
+  {% block content %}
+    <div class="jumbotron">
+
+        <h2>  {{secret.title}}</h2>
+        {% if secret.picture %}
+        <img src="{{ secret.picture.url }}" alt="Error" >
+        {% else %}
+        <img src="{% static 'images/sandman.jpg' %}" >
+        {% endif %}
+        <div class="">
+
+            <p>
+              {{secret.description}}
+            </p>
+            <p>
+                Date: {{secret.date | date:"Y-m-d"}}
+            </p>
+            <p>
+            Country: {{secret.country_of_origin.name}}</p>
+            <p>
+            Price: {{secret.price}} $
+            </p>
+            <p>
+            Rank: {{secret.rank}}
+          </p>
+
+        </div>
+
+    </div>
+  {% endblock %}

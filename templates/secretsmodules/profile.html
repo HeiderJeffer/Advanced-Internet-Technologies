@@ -1,0 +1,42 @@
+{% extends "secretsmodules/base.html" %}
+
+{% block content %}
+<div class="container">
+  <h1>Edit Profile</h1>
+
+  {% if success %}
+      <div class="alert alert-success">
+        Profile Updated Sucessfully
+      </div>
+  {% endif %}
+
+  <form class="{% url 'secretsmodules:profile'}" method="post">
+      {% csrf_token %}
+      <p>
+        <label>
+          Username:
+        </label>
+        <input class= "form-control" disabled readonly value="{{user.username}}" >
+      </p>
+    <p>
+      <label>
+        Email:
+      </label>
+      <input class= "form-control" disabled readonly value="{{user.email}}" >
+    </p>
+
+      {{ user_form.as_p }}
+      {{profile_form.as_p}}
+      <p>
+        <label>
+          Balance:
+        </label>
+        <input class= "form-control" disabled readonly value="{{user.profile.balance}} $" >
+      </p>
+
+
+      <input type="submit" name="" value="Update" class="btn btn-primary">
+  </form>
+</div>
+
+{% endblock content %}

@@ -1,0 +1,10 @@
+{% extends 'secretsmodules/base.html' %}
+{% block content %}
+<div>
+   <h1>Thank you for your order! </h1>
+   <div class="jumbotron">
+      <h6> Your remaining balance is {{current_balance}} </h6>
+      <a class='btn btn-primary' href="/"> Keep shopping </a>
+   </div>
+</div>
+{% endblock %}

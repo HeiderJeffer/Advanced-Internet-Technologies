@@ -1,0 +1,36 @@
+{% extends "secretsmodules/base.html" %}
+{% load static %}
+{% block content %}
+<div class="row">
+    {% if all_secrets %}
+    {% for secret in all_secrets %}
+    <div class="col-4 secret-entry">
+        <h4>
+            {{secret.title}}
+        </h4>
+        <div class="" style="min-height: 150px">
+            {{secret.description}}
+        </div>
+        <div class="entry-img">
+          {% if secret.picture %}
+          <img src="{{ secret.picture.url }}" alt="Error">
+          {% else %}
+          <img src="{% static 'images/sandman.jpg' %}">
+          {% endif %}
+        </div>
+
+        <br>
+        <a class="btn btn-success" href="{% url 'secretsmodules:add_to_cart' secret_id=secret.id %}">Add item</a>
+        Buy  {{secret.price }} $
+        </a>
+        <a class="detail_button btn btn-primary" href="{% url 'secretsmodules:details' secret.id %}">
+        Details
+        </a>
+    </div>
+    {% endfor %}
+</div>
+{% else %}
+<h3>No Secrets Found</h3>
+{% endif %}
+</div>
+{% endblock %}

@@ -1,0 +1,26 @@
+{% extends "secretsmodules/base.html" %}
+  {% block content %}
+        <h1>Register</h1>
+        <form class="" action="" method="post">
+          {{form.non_field_errors}}
+            {# {{form.as_p}} #}
+            {% for field in form %}
+
+            {% if field.name == "botcatcher" %}
+                  {{ field }}
+            {% else %}
+            <div class="form-group row">
+
+                <label class="col-sm-2 col-form-label" for="{{ field.name }}">{{ field.label }}</label>
+                <div class="col-sm-10">
+                    {{ field }}
+                    {{ field.errors}}
+                </div>
+            </div>
+            {% endif %}
+
+              {% endfor %}
+            {% csrf_token %}
+            <input type="submit" class="btn btn-primary" value="Register">
+        </form>
+  {% endblock %}
