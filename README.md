@@ -1,4 +1,4 @@
-# Secert
+# Ishtar 
 
 - Istar Website Developed by Heider Jeffer
 - Requirements
