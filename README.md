@@ -1,7 +1,9 @@
 # [Ishtar]  Project-for-Advanced-Internet-Technology
-
-- Istar is Python Web app Developed by Heider Jeffer
-- Requirements
+- Project for System Security
+- Developers: Heider Jeﬀer and Opaniyi Ayokunmi. 	
+- Supervisor Prof Sven Helmer	
+- Link:https://github.com/HeiderJeffer/Project-for-System-Security
+### Requirements
 - argon2-cffi==18.1.0
 - bcrypt==3.1.4
 - cffi==1.11.5
