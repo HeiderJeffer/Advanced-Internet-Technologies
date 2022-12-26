@@ -1,4 +1,4 @@
-# Ishtar
+# [Ishtar]  Project-for-Advanced-Internet-Technology
 
 - Istar is Python Web app Developed by Heider Jeffer
 - Requirements
