@@ -19,3 +19,5 @@
 - GUI 4DB:  https://sqlitebrowser.org/
 - python -m pip install argon2-cffi bcrypt cffi Django Faker Pillow pycparser python-dateutil pytz six text-unidecode django-environ
 - pip install --upgrade pip
+- multimetric 1.3.0
+pip install multimetric
