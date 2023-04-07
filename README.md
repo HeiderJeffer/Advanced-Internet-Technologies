@@ -3,6 +3,7 @@
 - Developers: Heider Jeﬀer and Opaniyi Ayokunmi. 	
 - Supervisor Prof Sven Helmer	
 - Link:https://github.com/HeiderJeffer/Project-for-System-Security
+- python manage.py runserver
 
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/image/1.png)
 
