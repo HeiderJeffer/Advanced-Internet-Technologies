@@ -12,17 +12,17 @@
 3. Data
 
 - Two Tiers:
-1. Back end Tire: Data layer and Logic Layer
-2. Front End Tire: User Interface Layer (GUI)
+1. Back end Tier (BE): Data layer and Logic Layer
+2. Front End Tier (FE): User Interface Layer (GUI)
 
-#  Front End Tire: User Interface Layer (GUI)
+#  Front End Tier (FE): User Interface Layer (GUI)
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/1.png)
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/2.png)
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/3.png)
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/4.png)
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/5.png)
 
-# Back end Tire: Data layer and Logic Layer
+# Back End Tier (BE): Data layer and Logic Layer
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/6.png)
 
 # Requirements
