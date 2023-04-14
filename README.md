@@ -23,6 +23,7 @@
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/5.png)
 
 # Back End Tier (BE): Data layer and Logic Layer
+![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/8.png)
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/6.png)
 
 # Requirements
