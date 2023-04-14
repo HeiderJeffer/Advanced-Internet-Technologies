@@ -32,6 +32,14 @@
 
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/5.png)
 
+
+# Back end Tire: Data layer and Logic Layer
+
+![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/6.png)
+
+
+
+
 # Requirements
 
 - argon2-cffi==18.1.0
