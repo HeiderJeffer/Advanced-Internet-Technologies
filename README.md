@@ -1,7 +1,7 @@
 # [Ishtar]  Project-for-Advanced-Internet-Technology
 - Project for System Security
 - Developers: Heider Jeﬀer and Opaniyi Ayokunmi. 	
-- Supervisor Prof Sven Helmer	
+- Supervisor Prof Claus Pahl
 - Link:https://github.com/HeiderJeffer/Project-for-System-Security
 - python manage.py runserver
 
