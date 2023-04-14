@@ -5,6 +5,7 @@
 - python manage.py runserver
 
 # Software architecture of this project
+![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/7.png)
 - Three Layers:
 1. User Interface Layer (GUI)
 2. Logic Layer
@@ -15,30 +16,14 @@
 2. Front End Tire: User Interface Layer (GUI)
 
 #  Front End Tire: User Interface Layer (GUI)
-
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/1.png)
-
-
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/2.png)
-
-
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/3.png)
-
-
-
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/4.png)
-
-
-
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/5.png)
 
-
 # Back end Tire: Data layer and Logic Layer
-
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/6.png)
-
-
-
 
 # Requirements
 
