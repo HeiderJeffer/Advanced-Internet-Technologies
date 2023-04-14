@@ -1,13 +1,39 @@
 # [Ishtar]  Project-for-Advanced-Internet-Technology
 - Project for System Security
-- Developers: Heider Jeﬀer and Opaniyi Ayokunmi. 	
-- Supervisor Prof Claus Pahl
-- Link:https://github.com/HeiderJeffer/Project-for-System-Security
+- Developers: Heider Jeﬀer	hjeffer@unibz.it
+- Supervisor Prof Claus Pahl claus.pahl@unibz.it
 - python manage.py runserver
 
-![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/image/1.png)
+# Software architecture of this project
+- Three Layers:
+1. User Interface Layer (GUI)
+2. Logic Layer
+3. Data
 
-### Requirements
+- Two Tiers:
+1. Back end Tire: Data layer and Logic Layer
+2. Front End Tire: User Interface Layer (GUI)
+
+#  Front End Tire: User Interface Layer (GUI)
+
+![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/1.png)
+
+
+![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/2.png)
+
+
+![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/3.png)
+
+
+
+![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/4.png)
+
+
+
+![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/5.png)
+
+# Requirements
+
 - argon2-cffi==18.1.0
 - bcrypt==3.1.4
 - cffi==1.11.5
