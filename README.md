@@ -1,5 +1,5 @@
 # [Ishtar]  Project-for-Advanced-Internet-Technology
-- Project for System Security
+- Project for Advanced Internet Technology
 - Developers: Heider Jeﬀer	hjeffer@unibz.it
 - Supervisor Prof Claus Pahl claus.pahl@unibz.it
 - python manage.py runserver
