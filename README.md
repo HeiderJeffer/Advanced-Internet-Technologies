@@ -4,7 +4,17 @@
 - Supervisor Prof Claus Pahl claus.pahl@unibz.it
 - python manage.py runserver
 
-# User Interface (GUI)
+# Software architecture of this project
+- Three Layers:
+1. User Interface Layer (GUI)
+2. Logic Layer
+3. Data
+
+- Two Tiers:
+1. Back end Tire: Data layer and Logic Layer
+2. Front End Tire: User Interface Layer (GUI)
+
+#  Front End Tire: User Interface Layer (GUI)
 
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/1.png)
 
