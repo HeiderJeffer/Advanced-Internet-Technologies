@@ -26,6 +26,7 @@
 ### Data layer
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/8.png)
 ### Logic Layer
+![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/6a.png)
 ![alt text](https://github.com/HeiderJeffer/Project-for-Advanced-Internet-Technology/blob/master/GUI/6.png)
 
 # Requirements
