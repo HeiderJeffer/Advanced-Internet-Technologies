@@ -52,6 +52,9 @@ Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 
+## Calculation of halsted matrix and mccabe cyclomatic complexity for the codes 
+- pip install multimetric
+
 # Requirements
 
 - argon2-cffi==18.1.0
@@ -69,6 +72,4 @@ declined, etc.
 - GUI 4DB:  https://sqlitebrowser.org/
 - python -m pip install argon2-cffi bcrypt cffi Django Faker Pillow pycparser python-dateutil pytz six text-unidecode django-environ
 - pip install --upgrade pip
-### Calculation of halsted matrix and mccabe cyclomatic complexity for the codes 
 
-- pip install multimetric
