@@ -1,4 +1,4 @@
-# [Ishtar]  Project-for-Advanced-Internet-Technology
+# Advanced Internet Technology
 - Project for Advanced Internet Technology
 - Developers: Heider Jeﬀer	hjeffer@unibz.it
 - Supervisor Prof Claus Pahl claus.pahl@unibz.it
