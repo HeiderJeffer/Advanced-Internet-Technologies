@@ -1,4 +1,10 @@
 # Advanced Internet Technologies
+
+<body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Advanced-Internet-Technologies/" alt = "Visitors-Counter"/>
+</body>
+
+
 - Project for Advanced Internet Technology
 - Developers: Heider Jeﬀer	hjeffer@unibz.it
 - Supervisor Prof Claus Pahl claus.pahl@unibz.it
