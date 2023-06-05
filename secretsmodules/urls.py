@@ -2,7 +2,7 @@
 from django.urls import path
 from django.urls import re_path
 from secretsmodules import views
-
+app_name = 'secretsmodules'
 
 urlpatterns = [
     re_path(r'^details/(?P<pk>\d{1,50})/$', views.DetailsView.as_view(), name='details'),

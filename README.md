@@ -77,5 +77,6 @@ declined, etc.
 - django-environ
 - GUI 4DB:  https://sqlitebrowser.org/
 - python -m pip install argon2-cffi bcrypt cffi Django Faker Pillow pycparser python-dateutil pytz six text-unidecode django-environ
+- python manage.py migrate
 - pip install --upgrade pip
 
